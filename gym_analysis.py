@@ -12,7 +12,7 @@ from sqlalchemy.engine import URL
 connection_url = URL.create(
     drivername="mysql+mysqlconnector",
     username="root",
-    password="axew143RA@",  # Your password fits perfectly here now
+    password="YOUR_ROOT_PASSWORD",  # Your password fits perfectly here now
     host="localhost",
     database="apex_fitness"
 )
