@@ -1,0 +1,4 @@
+class_name,trainer_name,class_time,capacity,current_bookings,remaining_slots
+"Morning HIIT","Sarah Connor","2026-08-20 07:00:00",15,1,14
+"Power Lifting 101","Sarah Connor","2026-08-20 18:00:00",10,1,9
+"Cardio Kickboxing","Rex Kwon","2026-08-21 09:00:00",20,0,20
